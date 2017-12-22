@@ -45,9 +45,14 @@ h2 {
     font-size: 1.75rem; }
 
 .list-icons {
-  font-size: 3rem; }
+  font-size: 3rem; 
+}
+.list-icons .list-inline-item i{
+  font-size:110px;
+}
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: #BD5D38; 
+  }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -65,7 +70,7 @@ h2 {
     height: 100vh; }
     #sideNav .navbar-brand {
       display: flex;
-      margin: auto auto 0;
+      margin: 100px auto 0;
       padding: 0.5rem; }
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
