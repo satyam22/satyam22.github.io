@@ -77,6 +77,9 @@ h2 {
         max-height: 10rem;
         border: 0.2rem solid rgba(255, 255, 255, 0.2); 
       }
+      #sideNav .navbar-brand .img-rounded {
+        border-radius:10%; 
+      }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
@@ -119,3 +122,6 @@ a {
   color: #BD5D38; }
   a:hover, a:focus, a:active {
     color: #824027; }
+.project-detail{
+text-align:justify;
+}
